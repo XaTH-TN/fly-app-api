@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar target/fly-web-0.0.1-SNAPSHOT.jar -Dserver.port=$PORT $JAR_OPTS
+web: java $JAVA_OPTS -jar target/dependency/fly-api.jar --port $PORT target/*.war
