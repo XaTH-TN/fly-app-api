@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class FlyApplication {
 
     public static void main(String[] args){
+        System.out.println("Hello Flu Education");
         SpringApplication.run(FlyApplication.class, args);
     }
 }
