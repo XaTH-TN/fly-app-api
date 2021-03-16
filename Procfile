@@ -1,1 +1,1 @@
-web: java -jar /fly-web/target/fly-web-0.0.1-SNAPSHOT.jar
+web: java -jar /builds/fly-web-0.0.1-SNAPSHOT.jar
